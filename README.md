@@ -1,1 +1,1 @@
-# proyecto-22
+# solución-del-proyecto-recolectar-tesoros-2
